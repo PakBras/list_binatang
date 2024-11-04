@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">List-Binatang</string>
+
+    <string name="about_name">I Putu Dika Dharma Brasika</string>
+    <string name="about_email">brasikadika@gmail.com</string>
+    <string name="animals_name">Nama Binatang</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="about">About</string>
+    <string-array name="data_name">
+        <item>Gajah</item>
+        <item>Singa</item>
+        <item>Serigala</item>
+        <item>Komodo</item>
+        <item>Burung Hantu</item>
+        <item>Kuda</item>
+        <item>Koala</item>
+        <item>Panda</item>
+        <item>Ular</item>
+        <item>Rubah</item>
+        <item>Badak</item>
+        <item>Penguin</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Gajah, mamalia darat terbesar dengan belalai panjang dan telinga lebar. Dikenal karena kecerdasan dan ingatan yang kuat. Gajah hidup dalam kelompok sosial yang dipimpin oleh betina tua dan bijak. Mereka ditemukan di hutan dan padang rumput di Afrika dan Asia.</item>
+        <item>Singa, karnivora besar dengan surai megah pada jantan. Dikenal sebagai raja hutan, singa hidup dalam kelompok yang disebut kawanan. Mereka berburu secara berkelompok dan sering ditemukan di savana Afrika.</item>
+        <item>Serigala, karnivora berukuran sedang dengan bulu tebal dan ekor lebat. Hidup dalam kelompok yang disebut kawanan, serigala dikenal karena strategi berburu yang efektif. Mereka ditemukan di berbagai habitat, termasuk hutan dan tundra.</item>
+        <item>Komodo, kadal besar yang hanya ditemukan di beberapa pulau di Indonesia. Dikenal karena air liur beracun dan kemampuan berburu yang kuat. Komodo adalah predator puncak di habitatnya.</item>
+        <item>Burung Hantu, burung nokturnal dengan mata besar dan kemampuan terbang yang senyap. Dikenal sebagai pemburu malam yang efisien, burung hantu sering diasosiasikan dengan kebijaksanaan dalam berbagai budaya.</item>
+        <item>Kuda, mamalia yang kuat dan cepat dengan kemampuan berlari yang luar biasa. Kuda telah digunakan oleh manusia selama ribuan tahun untuk transportasi dan pekerjaan berat. Mereka ditemukan di berbagai habitat di seluruh dunia.</item>
+        <item>Koala, marsupial yang hidup di pohon dengan bulu lembut dan hidung besar. Koala makan daun eukaliptus dan ditemukan di hutan Australia. Mereka dikenal karena sifatnya yang tenang dan suka tidur.</item>
+        <item>Panda, beruang besar dengan bulu hitam-putih yang khas. Dikenal karena diet bambunya, panda adalah spesies yang terancam punah dan menjadi simbol konservasi di seluruh dunia.</item>
+        <item>Ular, reptil tanpa kaki dengan tubuh panjang dan kemampuan meluncur. Ada banyak spesies ular, beberapa di antaranya berbisa. Ular ditemukan di hampir semua habitat di seluruh dunia.</item>
+        <item>Rubah, mamalia kecil dengan bulu lebat dan ekor panjang. Dikenal karena kecerdikan dan kemampuan beradaptasi, rubah ditemukan di berbagai habitat, termasuk hutan dan padang rumput.</item>
+        <item>Badak, mamalia besar dengan kulit tebal dan satu atau dua cula di hidungnya. Dikenal karena ukurannya yang besar dan kekuatan, badak ditemukan di Afrika dan Asia.</item>
+        <item>Penguin, burung yang tidak bisa terbang dengan tubuh berbentuk torpedo dan sayap yang digunakan untuk berenang. Dikenal karena kehidupan sosialnya yang kompleks, penguin ditemukan di belahan bumi selatan, terutama Antartika.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/gajah</item>
+        <item>@drawable/singa</item>
+        <item>@drawable/serigala</item>
+        <item>@drawable/komodo</item>
+        <item>@drawable/burung_hantu</item>
+        <item>@drawable/kuda</item>
+        <item>@drawable/koala</item>
+        <item>@drawable/panda</item>
+        <item>@drawable/ular</item>
+        <item>@drawable/rubah</item>
+        <item>@drawable/badak</item>
+        <item>@drawable/penguin</item>
+    </integer-array>
+</resources>
